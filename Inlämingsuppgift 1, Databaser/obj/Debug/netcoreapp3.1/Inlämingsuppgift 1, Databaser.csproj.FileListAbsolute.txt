@@ -1,0 +1,58 @@
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.exe
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.dll.config
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.deps.json
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.runtimeconfig.json
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.runtimeconfig.dev.json
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.pdb
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.csproj.AssemblyReference.cache
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.csproj.GenerateResource.cache
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.AssemblyInfoInputs.cache
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.AssemblyInfo.cs
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.csproj.CoreCompileInputs.cache
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.csproj.CopyComplete
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.pdb
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.genruntimeconfig.cache
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.CreateAccount.resources
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.loggedIn.resources
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.createAdvert.resources
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.formGuest.resources
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.FormDeleteAd.resources
+C:\Users\46704\source\repos\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.FormUpdate.resources
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.exe
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.dll.config
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.deps.json
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.runtimeconfig.json
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.runtimeconfig.dev.json
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.dll
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.pdb
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.csproj.AssemblyReference.cache
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.FormUpdate.resources
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.createAdvert.resources
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.FormDeleteAd.resources
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.formGuest.resources
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.loggedIn.resources
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift_1__Databaser.CreateAccount.resources
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.csproj.GenerateResource.cache
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.AssemblyInfoInputs.cache
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.AssemblyInfo.cs
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.csproj.CoreCompileInputs.cache
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.csproj.CopyComplete
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.dll
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.pdb
+C:\Users\46704\OneDrive\Pictures\Inlämingsuppgift 1, Databaser\Inlämingsuppgift 1, Databaser\obj\Debug\netcoreapp3.1\Inlämingsuppgift 1, Databaser.genruntimeconfig.cache
